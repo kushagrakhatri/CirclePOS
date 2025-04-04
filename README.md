@@ -12,4 +12,12 @@ Backend task in Ruby for CirclePOS
     2. 86
     3. 86 mod 10 = 6
     4. 10 - 6 = 4
-Therefore the complete ISBN is: 9780143007234
+    Therefore the complete ISBN is: 9780143007234
+
+The main file expects an 12 digit input from the user on the terminal and outputs the complete ISBN. 
+```
+    > ruby main.rb
+    Please enter the first 12 digits of an ISBN:
+    978014300723
+    Complete ISBN is : 9780143007234
+```
