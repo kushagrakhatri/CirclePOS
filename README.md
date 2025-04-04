@@ -12,5 +12,4 @@ Backend task in Ruby for CirclePOS
     2. 86
     3. 86 mod 10 = 6
     4. 10 - 6 = 4
-T
-herefore the complete ISBN is: 9780143007234
+Therefore the complete ISBN is: 9780143007234
